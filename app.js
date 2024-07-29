@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+// add new features - form
+
 // add new feature - button
-=======
-console.log(hello);
->>>>>>> feature
+
